@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DefaultPropertiesCollection LoadingOrder="1.0"> 
+	<DefaultProperties Id="FixedWing.j35" Base="FixedWing.Fighter.Jet">
+		<Criteria>
+			<Name>j35</Name>
+			<Name>saab_j35</Name>
+		</Criteria>
+		<Properties>
+			<ShortName>j35</ShortName>
+			<LongName>saab_j35</LongName>
+			<FullName>saab_j35_draken</FullName>
+			<Shape>j35.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+</DefaultPropertiesCollection>
