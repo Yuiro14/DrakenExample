@@ -1,0 +1,9 @@
+--
+-- file prepared: 8 February 2025 20:14:03.594, using fd705a
+--
+model = {
+	lods = {
+		{"j35.edm", 40000.0};
+	};
+	collision_shell="Su-25-collision.edm";
+}
